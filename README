@@ -1,0 +1,17 @@
+# 🗂️ File Organizer
+
+A lightweight Python script that helps you automatically organize the messy contents of a folder (like your Downloads directory) into categorized subfolders based on file types.
+
+## ✅ Features
+
+- Sorts files into folders like `Images`, `Documents`, `Videos`, `Music`, `Archives`, etc.
+- Supports custom folder paths.
+- Handles unknown file types by putting them into a `Others` folder.
+- Easy to modify and extend for personal needs.
+
+## 🚀 How to Use
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/your-username/file-organizer.git
+   cd file-organizer
